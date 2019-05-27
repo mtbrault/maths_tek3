@@ -1,0 +1,4 @@
+USAGE
+	./301dannon file
+DESCRIPTION
+	file	file that contains the numbers to be sorted, seperated by spaces
